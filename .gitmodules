@@ -1,0 +1,3 @@
+[submodule "TC2005-Quantum_Computing"]
+	path = TC2005-Quantum_Computing
+	url = https://github.com/Francisco-SP3/TC2005-Quantum_Computing.git
